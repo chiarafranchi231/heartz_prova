@@ -1,0 +1,62 @@
+/*SFONDO*/
+html, body {
+  font-family: 'gravity-ultralight', sans-serif;
+  margin:0; padding: 0; 
+  background-image: url(../img/sfondo_vuoto.png);
+  background-size: 150%; max-height: 98%; 
+  background-position: center
+}
+
+/*BOX*/
+main {padding: 5%; background-color: #f3ecf9; border-radius: 20px}
+
+.logo {width: 100px; height: auto; margin-top: 7%}
+
+.form-signin {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+}
+
+.form-signin .checkbox {
+  font-weight: 400;
+}
+
+.form-signin .form-floating:focus-within {
+  z-index: 2;
+}
+
+.form-signin input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.form-signin input[type="password"] {
+  margin-bottom: 15px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+#bottoni {
+  text-align: center; 
+  background-color: #8c42d7;
+  border-radius: 20px;
+  font-size: 18px;
+  text-decoration: none; color: #f3ecf9;
+  border-color: #8c42d7;
+  width: 30px;
+}
+#bottoni:hover{background-color: #D43BB4; border-color: #D43BB4}
+
+#testobianco {text-decoration: none; color: #8c42d7}
+
+#iscriviti {text-decoration: none; color: #8c42d7; font-size: 27px; margin-top: 7%}
+
+.whitelink {text-decoration: none; color: #f3ecf9;}
+.whitelink:hover {text-decoration: none; color: #f3ecf9;}
+
+#indietro {color: #f3ecf9; text-align: left; display: left;}
+
+li {list-style-type: none; padding-top:1%; padding-left: 1%}

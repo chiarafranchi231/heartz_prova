@@ -106,7 +106,7 @@ nav ul li {
 /*FOOTER*/
 footer {
 	background-image: url(../img/sfondo_footer.png);
-	background-repeat: no-repeat; max-background-size: 10%; 
+	background-repeat: no-repeat; max-background-size: 50%; 
 	background-position: center; 
 	text-align: center;
 	margin:0 !important;

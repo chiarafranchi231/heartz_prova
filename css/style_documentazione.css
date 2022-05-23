@@ -3,7 +3,7 @@ body {
 	font-family: 'gravity-ultralight', sans-serif; 
 	/*background-color: #f3ecf9 !important;*/
 	background-image: url(../img/sfondo_vuoto.png);
-	background-size: 300%; 
+	max-background-size: 300%; 
 	background-position: center;
 }
 

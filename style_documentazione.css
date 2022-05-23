@@ -1,0 +1,33 @@
+body {
+	max-width:100%;
+	font-family: 'gravity-ultralight', sans-serif; 
+	/*background-color: #f3ecf9 !important;*/
+	background-image: url(../img/sfondo_vuoto.png);
+	max-background-size: 300%; 
+	background-position: center;
+}
+
+#indietro {
+	color: #8d42c7; 
+	text-align: left; 
+	display: left; 
+	list-style-type: none !important; 
+	padding-top:1%; padding-left: 1%; padding-bottom: 1%}
+
+#titolo {color:#f3ecf9; margin-top: 5%; margin-bottom: 5%; font-size: 50px}
+
+main {padding: 5%; background-color: #f3ecf9; border-radius: 20px; margin-right: 3%; margin-left: 3%}
+
+li {list-style-type: decimal;}
+
+#abstract  {color:#8d42c7;}
+#PMP {color:#8d42c7;}
+#benchmarking  {color:#D43BB4;}
+#struttura {color:#D43BB4;}
+#strumenti {color:#D43BB4;}
+#communication {color:#8d42c7;}
+#background {color:#D43BB4;}
+#obiettivi {color:#D43BB4;}
+#target {color:#D43BB4;}
+#promozione {color:#D43BB4;}
+#valutazione {color:#D43BB4;}
